@@ -7,9 +7,8 @@ def countdown(count)
      count -= 1
   end
   "HAPPY NEW YEAR!"
-  
-  def countdown_with_sleep(count)
-  count.sleep(1.0)
-end
 end
 
+def countdown_with_sleep(count)
+  count.sleep(1.0)
+end
