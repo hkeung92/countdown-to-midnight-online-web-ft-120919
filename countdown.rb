@@ -1,8 +1,8 @@
 #write your code here
 
 def countdown(number)
-  number = 10
-  loop do number > 0
+  loop donumber = 10
+   number > 0
      puts "#{number} SECOND(S)!"
      number -= 1
   end
